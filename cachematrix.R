@@ -1,7 +1,7 @@
 ## The functions below calculate and cache the inverse of inputted matrix. Hence if 
 ## the same matrix is inputted, the code would not do the calculation again. 
 
-## This function sets and gets a inputted matrix and inverse of that matrix
+## This function sets and gets a inputted matrix and inverse of that matrix. 
 
 
 makeCacheMatrix <- function(x = matrix()) {
